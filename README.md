@@ -46,5 +46,3 @@ This project is licensed under the **MIT License**.
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## Contact
-For any queries, reach out to **[your email or GitHub profile]**.
