@@ -12,8 +12,8 @@ This repository contains a simple Assembly project written in **x86-64 NASM**. I
 ### Setup
 Clone the repository and navigate to the project directory:
 ```bash
-git clone https://github.com/your-username/assembly-project.git
-cd assembly-project
+git clone https://github.com/Sneha73685/Assembly-Lang.git
+cd Assembly-Lang
 ```
 
 ### Build & Run
